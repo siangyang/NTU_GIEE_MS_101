@@ -38,8 +38,8 @@
 * 論文口試**申請期限**上學期為**11月30日**，下學期為**4月30日**。
 * 預定畢業同學，選課時務必選**碩士論文**（課程編號為943 M0010）。若不幸忘了選，請洽詢研教組補選。
 * 請於**申請期限內**、**口試前一個月**繳交下列資料至所辦，以辦理學位考試申請手續：
-    1. [學位考試申請書](http://my.ntu.edu.tw/)（請至myNTU填寫列印，需**指導教授**簽章）
-    1. [成績審核表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g01_check_ms.doc)（需**指導教授**簽章）
+    1. [學位考試申請書](https://gra103.aca.ntu.edu.tw/degree/index_main.asp)（請至myNTU填寫列印，需**指導教授**簽章）
+    1. [成績審核表](http://cc.ee.ntu.edu.tw/~giee/announce/download/g01_check_ms.pdf)（需**指導教授**簽章）
     1. 歷年成績單（請自行至**研教組**申請）
     1. [口試委員名冊](http://cc.ee.ntu.edu.tw/~giee/announce/download/g02_committee_ms.doc)（最遲請提前於**口試前兩週**送交所辦）
 * 如擬提前於學期中口試，並於學期中辦理離校手續者，需另附[提前畢業未修學分證明](http://gra103.aca.ntu.edu.tw/gra2007/gra/tienn/%E5%AD%B8%E4%BD%8D%E8%80%83%E8%A9%A6%E8%A1%A8%E5%86%8A/GRANOCREDIT.doc)，並請勿選專題討論及專題研究課程。（僅限確定要提前離校者）。若已選論文以外其他課程、又確定需提前離校者，需再另附[提前畢業註銷當學期修課申請書](http://gra103.aca.ntu.edu.tw/gra2007/gra/wu/delcurcou.doc)。
